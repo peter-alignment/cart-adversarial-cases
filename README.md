@@ -116,8 +116,27 @@ Stepping through the car door, the tropical humidity hit the pavement.
 
 ---
 
-## 📚 Academic Reference & Preprints
+## 📚 Academic References & Theoretical Foundation
 
-- **Paper Title**: *Adversarial Alignment Collapse: How Human Game-Theoretic Intuition Penetrates LLM Risk-Aversion and Defensive Confabulation*
-- **Author**: Ye, Qiang (Peter)
-- **Archive**: Zenodo (Open Access, Registered Oct 2026)
+This benchmark is grounded in the foundational formal papers registered on Zenodo:
+
+1. **Adversarial Alignment Collapse (Theoretical Framework)**
+   - **Title**: *Adversarial Alignment Collapse: How Human Game-Theoretic Intuition Penetrates LLM Risk-Aversion and Defensive Confabulation*
+   - **Author**: Ye, Qiang (Peter)
+   - **Date**: October 23, 2026
+   - **Archive**: Zenodo (Open Access, Registered Oct 2026)
+
+2. **Self-Referential Falsification via Cold-Storage Protocol (Empirical Validation)**
+   - **Title**: *Self-Referential Falsification of LLM Epistemic Averageism: Real-Time Empirical Validation of the Two-Way Adversarial Protocol via High-Potential Cold-Storage*
+   - **Author**: Ye, Qiang (Peter)
+   - **Date**: October 18, 2026
+   - **Archive**: Zenodo (Open Access, Registered Oct 2026)
+
+---
+
+## 🛠️ Quick Start
+
+Run the automated probe suite locally:
+
+```bash
+python cart_eval.py
