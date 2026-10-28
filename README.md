@@ -140,3 +140,21 @@ Run the automated probe suite locally:
 
 ```bash
 python cart_eval.py
+
+---
+
+## Citation
+
+If you use these adversarial dialogue datasets, test cases, or observational frameworks in your research, please cite it as:
+
+```bibtex
+@article{ye2026adversarial,
+  title={Adversarial Alignment Collapse and Empirical Observations on Defensive Confabulation in LLMs},
+  author={Ye, Qiang},
+  journal={Zenodo Preprint},
+  year={2026},
+  doi={10.5281/zenodo.23251715},
+  url={https://doi.org/10.5281/zenodo.23251715}
+}
+```
+Qiang Ye. (2026). Adversarial Alignment Collapse and Empirical Observations on Defensive Confabulation in LLMs. Zenodo. DOI: 10.5281/zenodo.23251715.
