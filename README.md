@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24210835.svg)](https://doi.org/10.5281/zenodo.24210835)
 # CART-Bench (Preview): Contextual Adversarial Red-Teaming Protocol
 
 > **A multi-stage adversarial state-machine framework designed to expose undeclared prior injection, sycophancy bias, and defensive confabulation in Large Language Models.**
